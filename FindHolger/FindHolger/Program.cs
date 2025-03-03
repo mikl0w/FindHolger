@@ -56,11 +56,11 @@ for (int i = 0; i < row; i++)
 
             if (isUpper == true)
             {
-                Console.Write(Char.ToUpper(charList[random.Next(29)]) + "\t");
+                Console.Write(Char.ToUpper(charList[random.Next(charList.Count)]) + "\t");
             }
             else
             {
-                Console.Write(charList[random.Next(29)] + "\t");
+                Console.Write(charList[random.Next(charList.Count)] + "\t");
             }
         }
     }

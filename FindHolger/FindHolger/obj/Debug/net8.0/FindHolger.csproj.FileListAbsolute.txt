@@ -1,0 +1,14 @@
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\bin\Debug\net8.0\FindHolger.exe
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\bin\Debug\net8.0\FindHolger.deps.json
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\bin\Debug\net8.0\FindHolger.runtimeconfig.json
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\bin\Debug\net8.0\FindHolger.dll
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\bin\Debug\net8.0\FindHolger.pdb
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\FindHolger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\FindHolger.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\FindHolger.AssemblyInfo.cs
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\FindHolger.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\FindHolger.dll
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\refint\FindHolger.dll
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\FindHolger.pdb
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\FindHolger.genruntimeconfig.cache
+C:\Users\mikke\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Visual Studio-projekter\FindHolger\FindHolger\obj\Debug\net8.0\ref\FindHolger.dll

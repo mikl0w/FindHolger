@@ -6,11 +6,17 @@ List<char> charList = new List<char>
 
 Random random = new Random();
 
+//Note til Peter: Jeg har holdt mig til row og column = 15, da det gav bedre overblik på skærmen, fordi jeg brugte tabulering.
+//Jeg kunne rette koden og bruge whitespaces istedet for tabulering, men jeg følte ikke at det gav mening blot for dette!
 int row = 15;
 int column = 15;
 
 int randomRow = random.Next(row);
 int randomColumn = random.Next(column);
+
+Console.WriteLine(randomRow);
+Console.WriteLine(randomColumn);
+Console.WriteLine();
 
 Console.Write("#" + "\t");
 
@@ -27,24 +33,14 @@ for (int i = 0; i < row; i++)
 
     for (int j = 0; j < column; j++)
     {
-        int randomColor = random.Next(0, 4);
+        int randomColor = random.Next(0, 6);
 
-        if (randomColor == 0)
-        {
-            Console.ForegroundColor = ConsoleColor.Blue;
-        }
-        else if (randomColor == 1)
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
-        }
-        else if (randomColor == 2)
-        {
-            Console.ForegroundColor = ConsoleColor.Green;
-        }
-        else if (randomColor == 3)
-        {
-            Console.ForegroundColor = ConsoleColor.Yellow;
-        }
+        if (randomColor == 0) { Console.ForegroundColor = ConsoleColor.Blue; }
+        else if (randomColor == 1) { Console.ForegroundColor = ConsoleColor.Red; }
+        else if (randomColor == 2) { Console.ForegroundColor = ConsoleColor.Green; }
+        else if (randomColor == 3) { Console.ForegroundColor = ConsoleColor.Yellow; }
+        else if (randomColor == 4) { Console.ForegroundColor = ConsoleColor.Cyan; }
+        else if (randomColor == 5) { Console.ForegroundColor = ConsoleColor.White; }
 
         if (i == randomRow && j == randomColumn)
         {

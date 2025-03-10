@@ -14,8 +14,7 @@ int column = 15;
 int randomRow = random.Next(row);
 int randomColumn = random.Next(column);
 
-Console.WriteLine(randomRow);
-Console.WriteLine(randomColumn);
+Console.WriteLine("Answer: " + randomRow + ", " + randomColumn);
 Console.WriteLine();
 
 Console.Write("#" + "\t");

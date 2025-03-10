@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikke\\Desktop\\Datamatiker\\Visual Studio\\FindHolger1\\FindHolger\\FindHolger\\FindHolger.csproj",
+      "projectUniqueName": "C:\\Users\\mikke\\Desktop\\Datamatiker\\Visual Studio\\FindHolger\\FindHolger\\FindHolger\\FindHolger.csproj",
       "projectName": "FindHolger",
-      "projectPath": "C:\\Users\\mikke\\Desktop\\Datamatiker\\Visual Studio\\FindHolger1\\FindHolger\\FindHolger\\FindHolger.csproj",
+      "projectPath": "C:\\Users\\mikke\\Desktop\\Datamatiker\\Visual Studio\\FindHolger\\FindHolger\\FindHolger\\FindHolger.csproj",
       "packagesPath": "C:\\Users\\mikke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikke\\Desktop\\Datamatiker\\Visual Studio\\FindHolger1\\FindHolger\\FindHolger\\obj\\",
+      "outputPath": "C:\\Users\\mikke\\Desktop\\Datamatiker\\Visual Studio\\FindHolger\\FindHolger\\FindHolger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

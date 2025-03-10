@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindHolger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b98d0d38bfe2c9c422ba5155814dc737c6399f8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5afed666f7d8ed5fa063f84e7f91c49539a9f7ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindHolger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindHolger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
